@@ -1,5 +1,4 @@
-//Zadanie 1: konstruktor vectora. Utwórz vector<int> v(5, 7); i wypisz wszystkie elementy pętlą. Potem zmień v[2] na 100, wypisz jeszcze raz i wypisz v.size().
-//Oczekiwany wynik: 7 7 7 7 7, potem 7 7 100 7 7, potem 5.
+//Zadanie 1: konstruktor vectora. Utwórz vector<int> v(5, 7); i wypisz wszystkie elementy pętlą. Potem zmień v[2] na 123 i wypisz v.size().
 
 #include <iostream>
 #include <vector>
